@@ -1,0 +1,1 @@
+console.log("Čia yra tekstas");
